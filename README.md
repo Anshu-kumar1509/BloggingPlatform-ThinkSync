@@ -1,1 +1,1 @@
-# BloggingPlatform-StudySync
+# BloggingPlatform-ThinkSync
